@@ -1,5 +1,6 @@
 # ERP System
 这是一个基于Vue和.Net Core实现的ERP系统，实现了通知管理、订单管理、仓库管理、权限管理等功能
+
 平台工具：VS,SQLServer,Navicat,.Net Core,Vue,Element-ui
 
 结构图：
